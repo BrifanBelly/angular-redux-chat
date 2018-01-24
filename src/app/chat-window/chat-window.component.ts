@@ -48,6 +48,10 @@ export class ChatWindowComponent {
   }
 
   sendMessage(): void {
+    if (this.draftMessage.text === '') {
+      alert('Its a waste to send an enpty message');
+    return;
+    }
     this.store.dispatch(ThreadActions.addMessage(
       this.currentThread,
       {
