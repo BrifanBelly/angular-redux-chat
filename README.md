@@ -185,18 +185,6 @@ This repository also contains an example of a minimal integration of Redux with 
   <img src="src/assets/images/readme/working-counter-app.png" alt="Minimal Redux and Angular 2 Counter" width="800"/>
 </p>
 
-## Series
-
-This repo is part of a series of projects that discuss data architecture with Angular 2. You can find this same project implemented with Observable streams instead of Redux here:
-
-## Contributing
-
-There are lots of other little things that need cleaned up such as:
-
-- More tests
-- Cleaning up the vendor scripts / typings
-
-If you'd like to contribute, feel free to submit a pull request and we'll likely merge it in.
 
 
 
