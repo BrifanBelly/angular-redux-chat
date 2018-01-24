@@ -85,8 +85,6 @@ You can see that in the constructor we inject our `Store` (which is typed to `Ap
 
 This pattern is used throughout the app.
 
-Understanding how everything fits together with Redux can be tricky, but this code is heavily commented. One strategy to understand this code is to start at the components and see how they read the Store with selectors, dispatch actions, and follow that through the reducers. The other strategy is to get a copy of [ng-book 2](https://ng-book.com/2) where we explain each line in detail over ~60 pages.
-
 ## State
 
 The top-level state has two keys: `users` and `threads`:
