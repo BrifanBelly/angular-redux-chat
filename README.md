@@ -17,8 +17,6 @@ This repo shows an example chat application using Redux and Angular 2. The goal 
 * How to compose reducers
 * And much more
 
-> ### Try the live [demo here](http://redux-chat.ng-book.com)
-
 <p align="center">
   <img src="src/assets/images/readme/full-chat-preview.png" alt="Angular 2 Redux Chat" width="800" height="577"/>
 </p>
