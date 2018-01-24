@@ -2,8 +2,6 @@
   <img src="src/assets/images/logos/Angular2ReduxChatHeaderImage.png" alt="Angular 2 Redux Chat" width="810" height="405"/>
 </p>
 
-# Angular 2 Redux Chat [![Join the chat at https://gitter.im/ng-book/ng-book](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ng-book/ng-book?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 > An Angular 2 chat app using [Angular 2](https://angular.io/), [Redux](https://github.com/reactjs/redux), [Angular CLI](https://github.com/angular/angular-cli), [Webpack](https://webpack.github.io/), [TypeScript](http://www.typescriptlang.org/), Services, Injectables, [Karma](http://karma-runner.github.io/), Forms, [SCSS](http://sass-lang.com/), and [tslint](http://palantir.github.io/tslint/) by the [ng-book 2 team](https://ng-book.com/2)
 
 This repo shows an example chat application using Redux and Angular 2. The goal is to show how to use the Redux data architecture pattern within Angular 2, using the core Redux library. It also features:
@@ -24,15 +22,7 @@ This repo shows an example chat application using Redux and Angular 2. The goal 
 
 ## Quick start
 
-```bash
-# clone the repo
-git clone https://github.com/ng-book/angular2-redux-chat.git
 
-# change into the repo directory
-cd angular2-redux-chat
-
-# install
-npm install
 
 # run
 npm start
@@ -201,8 +191,6 @@ This repository also contains an example of a minimal integration of Redux with 
 
 This repo is part of a series of projects that discuss data architecture with Angular 2. You can find this same project implemented with Observable streams instead of Redux here:
 
-* [`angular2-rxjs-chat`](https://github.com/ng-book/angular2-rxjs-chat)
-
 ## Contributing
 
 There are lots of other little things that need cleaned up such as:
@@ -212,23 +200,8 @@ There are lots of other little things that need cleaned up such as:
 
 If you'd like to contribute, feel free to submit a pull request and we'll likely merge it in.
 
-## Getting Help
 
-If you're having trouble getting this project running, feel free to [open an issue](https://github.com/ng-book/angular2-redux-chat/issues), join us on [Gitter](https://gitter.im/ng-book/ng-book?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge), or [email us](mailto:us@fullstack.io)!
 
-___
-
-# ng-book 2
-
-<a href="https://ng-book.com/2">
-<img align="right" src="src/assets/images/readme/ng-book-2-as-book-cover-pigment.png" alt="ng-book 2" width="148" height="250" />
-</a>
-
-This repo was written and is maintained by the [ng-book 2](https://ng-book.com/2) team. In the book we talk about each line of code in this app and explain why it's there and how it works.
-
-This app is only one of several apps we have in the book. If you're looking to learn Angular 2, there's no faster way than by spending a few hours with ng-book 2.
-
-<div style="clear:both"></div>
 
 ## License
  [MIT](/LICENSE.md)
